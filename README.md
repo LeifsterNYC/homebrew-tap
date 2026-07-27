@@ -4,6 +4,7 @@ Personal Homebrew tap.
 
 ```bash
 brew tap leifsternyc/tap
+brew trust leifsternyc/tap
 brew install --cask aerialwall
 ```
 
