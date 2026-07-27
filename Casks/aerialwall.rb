@@ -7,8 +7,6 @@ cask "aerialwall" do
   desc "Apple's aerial screen savers as live desktop wallpapers"
   homepage "https://github.com/LeifsterNYC/AerialWall"
 
-  depends_on macos: ">= :sonoma"
-
   app "AerialWall.app"
 
   zap trash: [
